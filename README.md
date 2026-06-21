@@ -2,49 +2,51 @@
 
 ### Electronics & Communication Engineering Student
 
-I am an Electronics and Communication Engineering student with a strong interest in Embedded Systems, IoT, VLSI Design, and Healthcare Technology. I enjoy building practical solutions that combine hardware and software to solve real-world problems.
+Passionate about Embedded Systems, IoT, VLSI, and building technology that solves real-world problems.
+
+---
 
 ## About Me
 
-* 🎓 B.Tech in Electronics & Communication Engineering
-* 🔭 Currently working on a Smart ICU Patient Monitoring System
-* 🌱 Learning Embedded Systems, VLSI Design, Linux, and PCB Design
-* 💼 Internship Experience at Tata Motors and VLSI Industry Program
-* ⚡ Passionate about IoT, Healthcare Technology, and Smart Devices
+🎓 B.Tech in Electronics & Communication Engineering
+
+🔭 Currently working on a Smart ICU Patient Monitoring System
+
+⚙️ Interested in Embedded Systems, IoT, VLSI Design, and Automation
+
+💡 Focused on designing practical hardware and software solutions
+
+---
 
 ## Technical Skills
 
 **Programming:** C, C++, Python
 
-**Embedded Systems:** Arduino, ESP32, Embedded C
+**Embedded Systems:** ESP32, Arduino, Embedded C
 
-**Domains:** IoT, VLSI, Digital Electronics, PCB Design
+**Hardware:** Digital Electronics, Circuit Design, PCB Design
 
 **Tools:** Git, Linux, MATLAB
 
-## Featured Projects
+**Domains:** IoT, VLSI, Embedded Systems
 
-### Smart ICU Patient Monitoring System
+---
 
-An IoT-based healthcare solution that continuously monitors patient vital signs in real time and provides emergency alerts to medical staff for faster response and improved patient care.
+## Areas of Interest
 
-### Astra Women Safety System
+* Embedded Systems
+* Internet of Things (IoT)
+* VLSI Design
+* PCB Design
+* Healthcare Technology
+* Automation Systems
 
-A portable safety device built using ESP32, GPS, and GSM technologies to provide real-time location tracking and emergency communication.
+---
 
-### ESP32 Weather Station
-
-A smart weather monitoring system that collects and displays environmental data using sensors, ESP32, Wi-Fi connectivity, and an OLED display.
-
-## Experience
-
-* Tata Motors Internship
-* VLSI Internship Program
-
-## Contact
+## Connect
 
 📧 Email: [mayanksaraswati46@gmail.com](mailto:mayanksaraswati46@gmail.com)
 
-📄 Resume: [https://drive.google.com/file/d/1ah3wGhYwDt9qzBsxOi8Gquf4XylMuG9A/view?usp=sharing]
-
 💼 LinkedIn: [https://www.linkedin.com/in/mayank-saraswati-111b80351/]
+
+📄 Resume: [https://drive.google.com/file/d/1ah3wGhYwDt9qzBsxOi8Gquf4XylMuG9A/view?usp=sharing]
