@@ -45,6 +45,6 @@ A smart weather monitoring system that collects and displays environmental data 
 
 📧 Email: [mayanksaraswati46@gmail.com](mailto:mayanksaraswati46@gmail.com)
 
-📄 Resume: [Add Resume Link]
+📄 Resume: [https://drive.google.com/file/d/1ah3wGhYwDt9qzBsxOi8Gquf4XylMuG9A/view?usp=sharing]
 
-💼 LinkedIn: [Add LinkedIn Link]
+💼 LinkedIn: [https://www.linkedin.com/in/mayank-saraswati-111b80351/]
