@@ -1,19 +1,50 @@
 <h1 align="center">Hi 👋, I'm MAYANK SARASWATI</h1>
-<h3 align="center">Electronics & Communication Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 📫 How to reach me **mayanksaraswati46@gmail.com**
+### Electronics & Communication Engineering Student
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ah3wGhYwDt9qzBsxOi8Gquf4XylMuG9A/view?usp=sharing](https://drive.google.com/file/d/1ah3wGhYwDt9qzBsxOi8Gquf4XylMuG9A/view?usp=sharing)
+I am an Electronics and Communication Engineering student with a strong interest in Embedded Systems, IoT, VLSI Design, and Healthcare Technology. I enjoy building practical solutions that combine hardware and software to solve real-world problems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@mayank0217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@mayank0217" height="30" width="40" /></a>
-<a href="https://twitter.com/saraswati56282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saraswati56282" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayank-saraswati-111b80351/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayank-saraswati-111b80351/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mayanksaraswati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mayanksaraswati" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/m.sxzs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/m.sxzs/" height="30" width="40" /></a>
-</p>
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+* 🎓 B.Tech in Electronics & Communication Engineering
+* 🔭 Currently working on a Smart ICU Patient Monitoring System
+* 🌱 Learning Embedded Systems, VLSI Design, Linux, and PCB Design
+* 💼 Internship Experience at Tata Motors and VLSI Industry Program
+* ⚡ Passionate about IoT, Healthcare Technology, and Smart Devices
+
+## Technical Skills
+
+**Programming:** C, C++, Python
+
+**Embedded Systems:** Arduino, ESP32, Embedded C
+
+**Domains:** IoT, VLSI, Digital Electronics, PCB Design
+
+**Tools:** Git, Linux, MATLAB
+
+## Featured Projects
+
+### Smart ICU Patient Monitoring System
+
+An IoT-based healthcare solution that continuously monitors patient vital signs in real time and provides emergency alerts to medical staff for faster response and improved patient care.
+
+### Astra Women Safety System
+
+A portable safety device built using ESP32, GPS, and GSM technologies to provide real-time location tracking and emergency communication.
+
+### ESP32 Weather Station
+
+A smart weather monitoring system that collects and displays environmental data using sensors, ESP32, Wi-Fi connectivity, and an OLED display.
+
+## Experience
+
+* Tata Motors Internship
+* VLSI Internship Program
+
+## Contact
+
+📧 Email: [mayanksaraswati46@gmail.com](mailto:mayanksaraswati46@gmail.com)
+
+📄 Resume: [Add Resume Link]
+
+💼 LinkedIn: [Add LinkedIn Link]
