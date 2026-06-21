@@ -4,7 +4,6 @@
 
 Passionate about Embedded Systems, IoT, VLSI, and building technology that solves real-world problems.
 
----
 
 ## About Me
 
@@ -16,7 +15,6 @@ Passionate about Embedded Systems, IoT, VLSI, and building technology that solve
 
 💡 Focused on designing practical hardware and software solutions
 
----
 
 ## Technical Skills
 
@@ -30,7 +28,6 @@ Passionate about Embedded Systems, IoT, VLSI, and building technology that solve
 
 **Domains:** IoT, VLSI, Embedded Systems
 
----
 
 ## Areas of Interest
 
@@ -41,7 +38,6 @@ Passionate about Embedded Systems, IoT, VLSI, and building technology that solve
 * Healthcare Technology
 * Automation Systems
 
----
 
 ## Connect
 
